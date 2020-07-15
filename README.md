@@ -1,3 +1,3 @@
 # MNIST_GUI
 
-![](images/pic1.png)
+![](images/img1.jpeg)
